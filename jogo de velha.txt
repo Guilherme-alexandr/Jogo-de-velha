@@ -1,5 +1,5 @@
 JOGO DA VELHA
 
 X|_|O
-_|X|X
+O|X|X
 _|_|O
