@@ -2,4 +2,4 @@ JOGO DA VELHA
 
 X|_|O
 _|X|_
-_|_|_
+_|_|O
